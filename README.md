@@ -12,5 +12,6 @@ Projeto construído do evento Next Level Week da RocketSeat.
 - CSS
 - Git e GitHub
 
-## Contato
-jvmnc232@gmail.com
+## Contatos
+- (85) 988280941
+- jvmnc232@gmail.com
