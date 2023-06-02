@@ -7,7 +7,7 @@ Projeto construído do evento Next Level Week da RocketSeat.
 
 🔗[Clique aqui para acessar](https://jvfarias-prog.github.io/nlw-esports-explorer/)
 
-🔨## Tecnologias
+🔨 ## Tecnologias
 - HTML
 - CSS
 - Git e GitHub
