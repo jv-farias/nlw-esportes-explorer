@@ -3,15 +3,16 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído do evento Next Level Week da RocketSeat.
+- 🇧🇷 Projeto construído do evento Next Level Week da RocketSeat.
+- 🇺🇸 Project built from RocketSeat's Next Level Week event.
 
-🔗[Clique aqui para acessar](https://jvfarias-prog.github.io/nlw-esports-explorer/)
 
-🔨 ## Tecnologias
+🔗[Click here to accesss](https://jvfarias-prog.github.io/nlw-esports-explorer/)
+
+ ## 🔨 Tecnologias (Skills Used)
 - HTML
 - CSS
 - Git e GitHub
 
-## Contatos
-- (85) 988280941
+## Contatos (Contacts) 
 - jvmnc232@gmail.com
